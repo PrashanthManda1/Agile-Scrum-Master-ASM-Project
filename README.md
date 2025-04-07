@@ -1,6 +1,6 @@
 # Agile-Scrum-Master-ASM-Project
 Smart Weather (With Jira)__
-Identify at least epics and user stories. Linked the stories to the epics.
+Identify epics and user stories. Linked the stories to the epics.
 Entered the backlog (epics, stories and subtasks) in JIRA,
 Made a tentative release plan, by assigning the stories to three sprints,
 Started and completed one sprint,
